@@ -1,12 +1,12 @@
-Hi, I'm Saravanan 👋
+##Hi, I'm Saravanan 👋
 
-Data Scientist & AI Enthusiast | ML & Generative AI Specialist
+#Data Scientist & AI Enthusiast | ML & Generative AI Specialist
 
 I'm a passionate Data Scientist with a deep love for Artificial Intelligence and Machine Learning. My expertise lies in building intelligent systems that can learn, adapt, and transform data into actionable insights. Whether it's crafting complex models, working with cutting-edge technologies, or deploying scalable AI solutions, I thrive on turning challenges into innovative solutions.
 
 I enjoy exploring the boundaries of Generative AI and NLP, pushing the envelope of what's possible with technology. My journey in AI has led me to work with some of the most advanced tools and platforms, and I’m always eager to dive into new projects that challenge my skills and expand my horizons.
 
-🚀 Ready for Freelancing!
+## 🚀 **Ready for Freelancing!**
 I'm excited to collaborate on AI-based products and bring innovative ideas to life. With my expertise in Machine Learning, Generative AI, and cutting-edge technologies, I'm ready to help you build and deploy intelligent systems that can transform your business.
 
 Let's create something amazing together!
